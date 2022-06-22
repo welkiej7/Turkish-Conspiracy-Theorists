@@ -33,3 +33,10 @@ fundamental way. This is very much connected to the previous word groups we have
 In conclusion, we can claim that the words that are frequently used by the conspiracy theorists in our study, can demonstrate us how conspiracy theories are conceptualized, and what kind of psychology and worldview they underlie. In these examples of some groups of frequent word usages, we could deduct sev- eral traits and tendencies which are related to conspiracy theories and theorists, found in the literature. The most obvious and common ones analyzed in our study are those such as low level of social trust and trust toward authorities, anomie, social marginality, paranoia, etc.
 
 Related Literature and References Can Be Found in https://github.com/welkiej7/SocialNetworkAnalysis/tree/literature.
+
+
+### Network Results
+
+Our visualized network can be seen below,
+<img width="709" alt="Ekran Resmi 2022-06-22 15 40 40" src="https://user-images.githubusercontent.com/94485797/175031272-816b8583-038d-4942-9c8a-c69b205756ea.png">
+
