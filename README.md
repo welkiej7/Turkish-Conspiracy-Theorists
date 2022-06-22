@@ -8,4 +8,4 @@ After searching all tweets that includes these words, we have decided to visuali
 
 ## Semi-Corpus Objects
 
-First Semi-Corpus object contains data from dogrulukpayi.com. We have derived all of the articles under section #sağlık(health in Turkish) from https://www.dogrulukpayi.com/kategoriler/saglik at 03.06.2022. Dubrovin Viktor Alexandrovich used data scraping with Python for Selenium. 
+First Semi-Corpus object contains data from dogrulukpayi.com. We have derived all of the articles under section #sağlık(health in Turkish) from https://www.dogrulukpayi.com/kategoriler/saglik at 03.06.2022. Dubrovin Viktor Alexandrovich used data scraping with Python for Selenium based websites. The file named
