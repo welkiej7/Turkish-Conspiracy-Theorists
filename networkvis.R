@@ -34,6 +34,7 @@ for (i in 1:503) {
   }
 }
 
+# Networks that have a diameter more than 5
 elements <- decompose(preliminary)[[1]]
 for (i in 1:503) {
   if(diameter(decompose(preliminary)[[i]])>= 5){
@@ -41,7 +42,9 @@ for (i in 1:503) {
   } else{
   }
 }
-elements <- elements + decompose(preliminary)[[164]]
+#Conspiracy network
+elements <- decompose(preliminary)[[1]]
+
 
 
 
@@ -55,6 +58,23 @@ ggraph(elements, layout = 'stress') +
   geom_node_point(aes(size = degree(elements), color = clu))+
   geom_node_text(aes(label = NA)) + 
   geom_edge_link(alpha = 0.1, color = "grey66")+ 
+  theme_graph(foreground = 'steelblue', fg_text_colour = 'white')
+
+
+
+##Impactful Users
+ggraph(elements, layout = 'stress') + 
+  geom_node_point(aes(size = degree(elements)),color = "burlywood1") +
+  geom_node_text(aes(label = ifelse(centralization.degree(elements)$res>=100,V(elements)$name,NA))) + 
+  geom_edge_link(alpha = 0.05, color = "grey66")+ 
+  theme_graph(foreground = 'steelblue', fg_text_colour = 'white')
+
+##Colors with Respect to Centralities
+
+ggraph(elements, layout = 'stress') + 
+  geom_node_point(aes(size = degree(elements)),color = ifelse( centralization.degree(elements)$res>=100,"goldenrod4","burlywood1")) +
+  geom_node_text(aes(label = NA)) + 
+  geom_edge_link(alpha = 0.05, color = "grey66")+ 
   theme_graph(foreground = 'steelblue', fg_text_colour = 'white')
 
 
