@@ -72,5 +72,13 @@ Nonetheless, we have found out that there exist different conspiracy theory spre
 
 
 
+P.S.: We didn't showed everytime but rather pointed out a formula in the code. Arguments can be altered for reaching our results. It is commented in the code.
 
+## Responsibilities of Members
+
+Enes Özcan: Finding related literature and spreaders. Comparison of the similarities between global conspiracy theories and the common words used in our network. He contributed with his ideas to creation of the network.
+
+Dubrovin Viktor Alexandrovich: Data scraping from dogrulukpayi.com, he had scraped data from Twitter too, but that was before Twitter API access. He opened another directory which we used constantly. He contributed with his ideas to creation of the network, codes related to Python.
+
+Onur Tuncay Bal: Network creation, text mining of the tweets, word analysis, visualization of the network, codes related to R. 
 
