@@ -12,6 +12,6 @@ First Semi-Corpus object contains data from dogrulukpayi.com. We have derived al
 
 On our second Semi-Corpus object we have derived the data from Twitter users, "@maranki”,”@aDilipak”,”@5gvirusnewss”,”@ErkanTrukten". After that we have focused on word-count with R Language. the results of the both semi-corpus objects can be found in [creatingcorpus.md](<https://github.com/welkiej7/SocialNetworkAnalysis/blob/main/creatingcorpus.md>) with explanations.
 
-## Tweets
+## Tweets
 
 After careful filtering, we have searched the tweets in the last 30 days, our results can be found within [Tweets.csv](<https://github.com/welkiej7/SocialNetworkAnalysis/blob/main/Tweets.csv>).
