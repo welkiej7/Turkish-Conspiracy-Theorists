@@ -14,4 +14,4 @@ On our second Semi-Corpus object we have derived the data from Twitter users, "@
 
 ## Tweets
 
-After careful filtering, we have searched the tweets in the last 30 days, our results can be found within [Tweets.csv](<https://github.com/welkiej7/SocialNetworkAnalysis/blob/main/Tweets.csv>).
+After careful filtering, we have searched the tweets in the last 30 days, our results can be found within [Tweets.csv](<https://github.com/welkiej7/SocialNetworkAnalysis/blob/main/Tweets.csv>). We have used the Twitter API V2 for this tweet searching. Our tokens can be found within [tokens.R](<https://github.com/welkiej7/SocialNetworkAnalysis/blob/main/tokens.R>). 
