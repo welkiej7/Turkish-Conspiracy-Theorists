@@ -8,4 +8,6 @@ After searching all tweets that includes these words, we have decided to visuali
 
 ## Semi-Corpus Objects
 
-First Semi-Corpus object contains data from dogrulukpayi.com. We have derived all of the articles under section #sağlık(health in Turkish) from https://www.dogrulukpayi.com/kategoriler/saglik at 03.06.2022. Dubrovin Viktor Alexandrovich used data scraping with Python for Selenium based websites. The file [dogrulukpayi.py](<https://github.com/welkiej7/SocialNetworkAnalysis/blob/main/dogrulukpayi.py>) contains this process.
+First Semi-Corpus object contains data from dogrulukpayi.com. We have derived all of the articles under section #sağlık(health in Turkish) from https://www.dogrulukpayi.com/kategoriler/saglik at 03.06.2022. Dubrovin Viktor Alexandrovich used data scraping with Python for Selenium based websites. The file [dogrulukpayi.py](<https://github.com/welkiej7/SocialNetworkAnalysis/blob/main/dogrulukpayi.py>) contains this process. After this we have carefully evaluated the common words used in the articles with R Language. 
+
+On our second Semi-Corpus object we have derived the data from Twitter users, "@maranki”,”@aDilipak”,”@5gvirusnewss”,”@ErkanTrukten". After that we have focused on word-count with R Language. the results of the both semi-corpus objects can be found in [creatingcorpus.md](<https://github.com/welkiej7/SocialNetworkAnalysis/blob/main/creatingcorpus.md>) with explanations.
