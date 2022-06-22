@@ -40,4 +40,17 @@ Conspiracy Theory Network itself can be seen as below,
 ![network2](https://user-images.githubusercontent.com/94485797/175034196-7889d5fd-f781-4189-a109-c6b6287c033a.png)
 
 
-We have found out that the diameter of the network is 23 and node size is 5790. Average Path Length is 5.814797, Number of cliques is 4, 
+We have found out that the diameter of the network is 23 and node and edge size is 5790. Average Path Length is 5.814797, Number of cliques is 4, The Global Efficency score is 0.202, graph density is 0.0009817062.
+
+We have visualizaed nodes with respect to their centralities. First, we have visualized nodes that have more than 200 connections. Following graph shows the nodes with more than 200 connections with light green.
+![most central](https://user-images.githubusercontent.com/94485797/175046620-b0690fe2-6fac-4915-ad7f-74a0a3daa705.png)
+
+with a similar approach, we have denoted the nodes with more than 150 connections with red,
+![more than 150](https://user-images.githubusercontent.com/94485797/175046744-af370b90-c328-44b4-9f05-2e30fcee9c41.png)
+
+Finally we have decided the color the nodes with connections more than 50 with blue
+
+![more than 50](https://user-images.githubusercontent.com/94485797/175046964-c104a59f-fa12-45b7-a8e5-48618d98f7ff.png)
+
+
+
