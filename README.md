@@ -44,4 +44,9 @@ Conspiracy Theory Network is visualized as below,
 
 ![network2](https://user-images.githubusercontent.com/94485797/175032952-50995561-8f3b-4244-83e0-7de728974266.png)
 
-As expected, conspiracy theory network (largest network) is highly isolated and they don't get in touch with the authorities(other networks). Specs of the conspiracy theory network was found with the code in the file named  
+As expected, conspiracy theory network (largest network) is highly isolated and they don't get in touch with the authorities(other networks). Specs of the conspiracy theory network can be stated as below,
+
+
+
+
+
