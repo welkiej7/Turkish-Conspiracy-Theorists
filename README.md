@@ -53,4 +53,24 @@ Finally we have decided the color the nodes with connections more than 50 with b
 ![more than 50](https://user-images.githubusercontent.com/94485797/175046964-c104a59f-fa12-45b7-a8e5-48618d98f7ff.png)
 
 
+Furthermore we have visualized the conspiracy theory spreaders with different colors. In below graph we have denoted the user "aDilipak" with a different color,
+
+![adilipak](https://user-images.githubusercontent.com/94485797/175048058-90a8c59d-dd6b-4f4d-b739-8b1d5b743672.png)
+
+Similarly, we have denoted the user "ErkanTrukten" with a different color,
+
+
+![eTrukten](https://user-images.githubusercontent.com/94485797/175048482-78037a32-6c1c-436f-932a-a97c58d3ce3e.png)
+
+and "5gvirusnewss" as below,
+
+![5gvirussnewss](https://user-images.githubusercontent.com/94485797/175049137-4d5f3253-9b71-44f5-9f44-05867d663937.png)
+
+Nonetheless, we have found out that there exist different conspiracy theory spreaders other than them that have more impact over the network, in following graph we have found out the most central nodes and labelled them with a limitation over centrality more than 100,
+
+![mostttttt](https://user-images.githubusercontent.com/94485797/175051214-5ec601f3-d8dd-45b8-87a9-37fc7679c037.png)
+
+
+
+
 
