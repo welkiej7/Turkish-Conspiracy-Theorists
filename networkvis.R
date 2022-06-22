@@ -27,12 +27,7 @@ V(preliminary)$clu <-  as.character(membership(cluster_louvain(preliminary)))
 V(preliminary)$size <-  degree(preliminary)
 
 
-for (i in 1:503) {
-  if("drfahrettinkoca" %in% V(decompose(preliminary)[[i]])$name){
-    print(i)
-  } else{
-  }
-}
+
 
 # Networks that have a diameter more than 5
 elements <- decompose(preliminary)[[1]]
