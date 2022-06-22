@@ -38,5 +38,10 @@ Related Literature and References Can Be Found in https://github.com/welkiej7/So
 ### Network Results
 
 Our visualized network can be seen below,
-<img width="709" alt="Ekran Resmi 2022-06-22 15 40 40" src="https://user-images.githubusercontent.com/94485797/175031272-816b8583-038d-4942-9c8a-c69b205756ea.png">
+<img width="709" alt="Ekran Resmi 2022-06-22 15 40 40" src="https://user-images.githubusercontent.com/94485797/175031272-816b8583-038d-4942-9c8a-c69b205756ea.png"> 
 
+Conspiracy Theory Network is visualized as below,
+
+![network2](https://user-images.githubusercontent.com/94485797/175032952-50995561-8f3b-4244-83e0-7de728974266.png)
+
+As expected, conspiracy theory network (largest network) is highly isolated and they don't get in touch with the authorities(other networks). Specs of the conspiracy theory network was found with the code in the file named  
