@@ -1,4 +1,18 @@
 
+In this part of the project, for finding who spreads the conspiracy theories at the most amount we have to create, analyze and search with a created corpus. This corpus should be gathered with the words from tweets that contains misinformation. Thus we need to search for the general database of collected misinformation. This can be done via multiple ways but searching with an already existing database created by World Fact Checking Organization is extremely useful. Here is the github link to the database.
+
+https://github.com/utahnlp/x-fact
+
+After manipulating data we will create a corpus that comes from misinformation network of Republic of Turkey.
+
+QUICK NOTICE: Twitter API access is pre-defined. For running the code completely you need a twitter API access.
+
+In the beginning we should state that our aim is to find the impact of the widely known conspiracy theory spreaders and their impact on information diffusion over the network. This is rather important to understand how false,mis,mal- information spreads over the social networks such as Twitter and in the case of Turkey it is rather new. Our common word filtering will reveal the most frequent debates. For example, misinformation spreader can talk about variety of subjects, nonetheless our main aim is to find most relevant topics, related to health.
+
+
+
+
+
 
 
 <img width="720" alt="Ekran Resmi 2022-06-22 15 53 19" src="https://user-images.githubusercontent.com/94485797/175033710-9349f54d-bcc9-49ee-a8d8-df131313c242.png">
